@@ -1,5 +1,5 @@
 from queue import PriorityQueue
-
+# la on creer une node , elle deviendra plus tard l'arbre 
 class Node:
     data = ' '
     frequence=0
